@@ -1,2 +1,2 @@
 # Shooter
-Its cool shooter
+It`s game named - "Shooter". In this game You can fire. 
